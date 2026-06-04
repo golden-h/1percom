@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "1percom",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "1percom",
+			"database_id": "08e639ff-40d9-4dc5-8b39-39c22ed838c9"
+		}
+	]
+}
